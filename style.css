@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	background-color:   #ffffff;
+}
+
+/*estilização data hora*/
+.div_hora,.div_data{
+	margin-left: 93%;
+	color: #070707;
+}
+
+
+#OD, #TEMP, #SAT {
+	margin-left: 130px;
+	width: 20%; 
+	float: left; 
+}
+
+
+.imagem{
+	text-align: center;
+
+}
